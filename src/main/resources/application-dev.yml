@@ -7,7 +7,7 @@ spring:
     url: jdbc:mysql://59.110.216.57:3306/archives?useSSL=false&useUnicode=true&characterEncoding=utf-8&autoReconnect=true
     username: ams
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password:
+    password: ams
   thymeleaf:
     cache: false
 
