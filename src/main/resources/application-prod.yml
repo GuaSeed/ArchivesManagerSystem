@@ -8,8 +8,6 @@ spring:
     username: ams
     driver-class-name: com.mysql.cj.jdbc.Driver
     password:
-  profiles:
-    active: dev
 
 #-----------druid---------------
 druid:
